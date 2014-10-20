@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+
+  
+  <test name="AboutDropDown.java">
+    <classes>
+      <class name="www_voxox.AboutDropDown"/>
+    </classes>
+  </test> 
+  
+   <test name="AboutPage.java">
+    <classes>
+      <class name="www_voxox.AboutPage"/>
+    </classes>
+  </test> 
+  
+   <test name="Add_Ons_Page.java">
+    <classes>
+      <class name="www_voxox.Add_Ons_Page"/>
+    </classes>
+  </test> 
+  
+   <test name="AwardsPage.java">
+    <classes>
+      <class name="www_voxox.AwardsPage"/>
+    </classes>
+  </test> 
+  
+   <test name="BusinessDropDown.java">
+    <classes>
+      <class name="www_voxox.BusinessDropDown"/>
+    </classes>
+  </test> 
+  
+   <test name="BusinessPage.java">
+    <classes>
+      <class name="www_voxox.BusinessPage"/>
+    </classes>
+  </test>  
+  
+   <test name="CallingRates.java">
+    <classes>
+      <class name="www_voxox.CallingRates"/>
+    </classes>
+  </test> 
+  
+   <test name="CarrierAndWholesale.java">
+    <classes>
+      <class name="www_voxox.CarrierAndWholesale"/>
+    </classes>
+  </test> 
+  
+   <test name="ChannelPartnerForm.java">
+    <classes>
+      <class name="www_voxox.ChannelPartnerForm"/>
+    </classes>
+  </test> 
+  
+   <test name="ChannelPartnersPage.java">
+    <classes>
+      <class name="www_voxox.ChannelPartnersPage"/>
+    </classes>
+  </test> 
+  
+   <test name="ContactUsPage.java">
+    <classes>
+      <class name="www_voxox.ContactUsPage"/>
+    </classes>
+  </test> 
+  
+   <test name="DownloadIOSForm.java">
+    <classes>
+      <class name="www_voxox.DownloadIOSForm"/>
+    </classes>
+  </test> 
+  
+   <test name="DownloadPage.java">
+    <classes>
+      <class name="www_voxox.DownloadPage"/>
+    </classes>
+  </test> 
+  
+   <test name="FairUse.java">
+    <classes>
+      <class name="www_voxox.FairUse"/>
+    </classes>
+  </test> 
+  
+   <test name="Footer.java">
+    <classes>
+      <class name="www_voxox.Footer"/>
+    </classes>
+  </test> 
+  
+   <test name="Header.java">
+    <classes>
+      <class name="www_voxox.Header"/>
+    </classes>
+  </test> 
+  
+   <test name="HelpDropDown.java">
+    <classes>
+      <class name="www_voxox.HelpDropDown"/>
+    </classes>
+  </test> 
+  
+
+  
+   <test name="HostedPBX.java">
+    <classes>
+      <class name="www_voxox.HostedPBX"/>
+    </classes>
+  </test> 
+  
+   <test name="InboundRatesTable.java">
+    <classes>
+      <class name="www_voxox.InboundRatesTable"/>
+    </classes>
+  </test> 
+  
+   <test name="InboundSideInformation.java">
+    <classes>
+      <class name="www_voxox.InboundSideInformation"/>
+    </classes>
+  </test> 
+  
+   <test name="InboundTollFree.java">
+    <classes>
+      <class name="www_voxox.InboundTollFree"/>
+    </classes>
+  </test> 
+  
+   <test name="IOSGuide.java">
+    <classes>
+      <class name="www_voxox.IOSGuide"/>
+    </classes>
+  </test> 
+  
+   <test name="IOSSideBarLinks.java">
+    <classes>
+      <class name="www_voxox.IOSSideBarLinks"/>
+    </classes>
+  </test> 
+  
+   <test name="MainPage.java">
+    <classes>
+      <class name="www_voxox.MainPage"/>
+    </classes>
+  </test> 
+  
+   <test name="News.java">
+    <classes>
+      <class name="www_voxox.News"/>
+    </classes>
+  </test> 
+  
+   <test name="OperatorPartnerPage.java">
+    <classes>
+      <class name="www_voxox.OperatorPartnerPage"/>
+    </classes>
+  </test> 
+  
+   <test name="Outbound.java">
+    <classes>
+      <class name="www_voxox.Outbound"/>
+    </classes>
+  </test> 
+  
+   <test name="OutboundRatesTable.java">
+    <classes>
+      <class name="www_voxox.OutboundRatesTable"/>
+    </classes>
+  </test> 
+  
+   <test name="OutboundSideInformation.java">
+    <classes>
+      <class name="www_voxox.OutboundSideInformation"/>
+    </classes>
+  </test> 
+  
+   <test name="PartnersDropDown.java">
+    <classes>
+      <class name="www_voxox.PartnersDropDown"/>
+    </classes>
+  </test> 
+  
+   <test name="PartnersPage.java">
+    <classes>
+      <class name="www_voxox.PartnersPage"/>
+    </classes>
+  </test> 
+  
+   <test name="PersistentNavigation.java">
+    <classes>
+      <class name="www_voxox.PersistentNavigation"/>
+    </classes>
+  </test> 
+  
+   <test name="Phones_Hardware_Page.java">
+    <classes>
+      <class name="www_voxox.Phones_Hardware_Page"/>
+    </classes>
+  </test> 
+  
+   <test name="Press.java">
+    <classes>
+      <class name="www_voxox.Press"/>
+    </classes>
+  </test> 
+  
+   <test name="PrivacyPolicy.java">
+    <classes>
+      <class name="www_voxox.PrivacyPolicy"/>
+    </classes>
+  </test> 
+  
+   <test name="RatesTable.java">
+    <classes>
+      <class name="www_voxox.RatesTable"/>
+    </classes>
+  </test> 
+  
+   <test name="Sidebarlinks.java">
+    <classes>
+      <class name="www_voxox.Sidebarlinks"/>
+    </classes>
+  </test> 
+  
+   <test name="SideInformation.java">
+    <classes>
+      <class name="www_voxox.SideInformation"/>
+    </classes>
+  </test> 
+  
+   <test name="SIPTrunks.java">
+    <classes>
+      <class name="www_voxox.SIPTrunks"/>
+    </classes>
+  </test> 
+  
+   <test name="SMSModal.java">
+    <classes>
+      <class name="www_voxox.SMSModal"/>
+    </classes>
+  </test> 
+  
+   <test name="SMSSolutions.java">
+    <classes>
+      <class name="www_voxox.SMSSolutions"/>
+    </classes>
+  </test> 
+  
+   <test name="TeamPage.java">
+    <classes>
+      <class name="www_voxox.TeamPage"/>
+    </classes>
+  </test> 
+  
+   <test name="TermsAndConditions.java">
+    <classes>
+      <class name="www_voxox.TermsAndConditions"/>
+    </classes>
+  </test> 
+  
+   <test name="TourDropdown.java">
+    <classes>
+      <class name="www_voxox.TourDropdown"/>
+    </classes>
+  </test> 
+  
+  
+  
+
+</suite> <!-- Suite -->

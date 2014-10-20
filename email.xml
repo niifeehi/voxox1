@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ Emails for  tests that failed .
+-->
+<project basedir="." default="run_testng" name="SendEmailExample">
+ 
+  <!-- Your TestNG target -->
+  <target name="run_testng" >
+    <testng failureProperty="test.failed">
+      <!-- ... your TestNG instructions here... -->
+    </testng>
+  </target>
+ 
+  <!-- 
+    The target sendMail will be executed only if test.failed is true. 
+      test.failed value come from <testng>, see run_testng target above. 
+      Therefore, email will be sent only if the test failed. 
+  -->
+  <target name="sendMail" if="test.failed" depends="run_testng">
+    <mail mailhost="sm01.telcentris.net" mailport="25" failonerror="false"
+      subject="Test results from last run">
+ 
+      <from address="basil.dzewu@voxox.com"/>
+ 
+   	  <to address="basil.dzewu@voxox.com"/>
+      <!--  <to address="qadept@telcentris.com"/> -->
+ 
+      <message>Please find attached the test results for our last run. </message>
+ 
+      <attachments>
+        <fileset dir=".">
+          <include name="filename.txt"/>   
+        </fileset>
+      </attachments>
+      
+     
+    </mail>
+  </target>
+</project> 

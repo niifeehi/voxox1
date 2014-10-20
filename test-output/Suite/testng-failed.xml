@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="MainPage.java(failed)">
+    <classes>
+      <class name="www_voxox.SMSSolutions">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.SMSSolutions -->
+      <class name="www_voxox.OperatorPartnerPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.OperatorPartnerPage -->
+      <class name="www_voxox.OutboundRatesTable">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.OutboundRatesTable -->
+      <class name="www_voxox.SIPTrunks">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.SIPTrunks -->
+      <class name="www_voxox.Header">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.Header -->
+      <class name="www_voxox.PartnersDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.PartnersDropDown -->
+      <class name="www_voxox.ChannelPartnerForm">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.ChannelPartnerForm -->
+      <class name="www_voxox.HostedPBX">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.HostedPBX -->
+      <class name="www_voxox.HelpDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.HelpDropDown -->
+      <class name="www_voxox.AboutDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.AboutDropDown -->
+      <class name="www_voxox.Outbound">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.Outbound -->
+      <class name="www_voxox.HelpPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.HelpPage -->
+      <class name="www_voxox.TourDropdown">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.TourDropdown -->
+      <class name="www_voxox.ChannelPartnersPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.ChannelPartnersPage -->
+      <class name="www_voxox.MainPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="C42111"/>
+        </methods>
+      </class> <!-- www_voxox.MainPage -->
+      <class name="www_voxox.BusinessPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.BusinessPage -->
+      <class name="www_voxox.AboutPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.AboutPage -->
+      <class name="www_voxox.PersistentNavigation">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.PersistentNavigation -->
+      <class name="www_voxox.SMSModal">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.SMSModal -->
+      <class name="www_voxox.CarrierAndWholesale">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.CarrierAndWholesale -->
+      <class name="www_voxox.BusinessDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.BusinessDropDown -->
+      <class name="www_voxox.PartnersPage">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.PartnersPage -->
+    </classes>
+  </test> <!-- MainPage.java(failed) -->
+  <test name="PartnersPage.java(failed)">
+    <classes>
+      <class name="www_voxox.SMSSolutions">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.SMSSolutions -->
+      <class name="www_voxox.OperatorPartnerPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.OperatorPartnerPage -->
+      <class name="www_voxox.OutboundRatesTable">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.OutboundRatesTable -->
+      <class name="www_voxox.SIPTrunks">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.SIPTrunks -->
+      <class name="www_voxox.Header">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.Header -->
+      <class name="www_voxox.PartnersDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.PartnersDropDown -->
+      <class name="www_voxox.ChannelPartnerForm">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.ChannelPartnerForm -->
+      <class name="www_voxox.HostedPBX">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.HostedPBX -->
+      <class name="www_voxox.HelpDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.HelpDropDown -->
+      <class name="www_voxox.AboutDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.AboutDropDown -->
+      <class name="www_voxox.Outbound">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.Outbound -->
+      <class name="www_voxox.HelpPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.HelpPage -->
+      <class name="www_voxox.TourDropdown">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.TourDropdown -->
+      <class name="www_voxox.MainPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.MainPage -->
+      <class name="www_voxox.ChannelPartnersPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.ChannelPartnersPage -->
+      <class name="www_voxox.BusinessPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.BusinessPage -->
+      <class name="www_voxox.AboutPage">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.AboutPage -->
+      <class name="www_voxox.PersistentNavigation">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.PersistentNavigation -->
+      <class name="www_voxox.SMSModal">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- www_voxox.SMSModal -->
+      <class name="www_voxox.CarrierAndWholesale">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.CarrierAndWholesale -->
+      <class name="www_voxox.BusinessDropDown">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- www_voxox.BusinessDropDown -->
+      <class name="www_voxox.PartnersPage">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="C37733"/>
+        </methods>
+      </class> <!-- www_voxox.PartnersPage -->
+    </classes>
+  </test> <!-- PartnersPage.java(failed) -->
+</suite> <!-- Failed suite [Suite] -->
